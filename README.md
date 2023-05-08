@@ -21,3 +21,13 @@ A simple example on how to use hough circles
 ```
 python hough_circles_example.py
 ```
+
+## Results 
+
+![image](Media/Q1/Q1image.png)
+<br>
+Original Image
+<br>
+![image](Results/results.jpg)
+<br>
+Final Result
