@@ -24,10 +24,10 @@ python hough_circles_example.py
 
 ## Results 
 
-![image](Media/Q1/Q1image.png)
-<br>
-Original Image
-<br>
-![image](Results/results.jpg)
-<br>
-Final Result
+<table>
+ <tr>
+    <td>![image](Media/Q1/Q1image.png) <p align='center'>Original Image</p></td>
+    <td>![image](Results/results.jpg)<p align='center'>Final Result</p></d>
+ </tr>
+</table>
+
