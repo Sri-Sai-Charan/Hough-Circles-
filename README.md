@@ -26,8 +26,8 @@ python hough_circles_example.py
 
 <table>
  <tr>
-    <td>![image](Media/Q1/Q1image.png) <p align='center'>Original Image</p></td>
-    <td>![image](Results/results.jpg) <p align='center'>Final Result</p></d>
+    <td><img src="Media/Q1/Q1image.png"  alt="1" width = 360px height = 640px > <p align='center'>Original Image</p></td>
+    <td><img src="Results/results.jpg"  alt="1" width = 360px height = 640px > <p align='center'>Final Result</p></d>
  </tr>
 </table>
 
