@@ -27,7 +27,7 @@ python hough_circles_example.py
 <table>
  <tr>
     <td>![image](Media/Q1/Q1image.png) <p align='center'>Original Image</p></td>
-    <td>![image](Results/results.jpg)<p align='center'>Final Result</p></d>
+    <td>![image](Results/results.jpg) <p align='center'>Final Result</p></d>
  </tr>
 </table>
 
