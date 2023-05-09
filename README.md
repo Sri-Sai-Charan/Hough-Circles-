@@ -1,6 +1,6 @@
 # Hough-Circles
 
-A simple example on how to use hough circles
+The circle Hough Transform (CHT) is a basic feature extraction technique used in digital image processing for detecting circles in imperfect images. The circle candidates are produced by “voting” in the Hough parameter space and then selecting local maxima in an accumulator matrix. This program showcases Hough Circles usage
  
 ## Folder Structure:
 ```
